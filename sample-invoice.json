@@ -1,0 +1,7 @@
+{
+  "invoice_number": "INV-1001",
+  "vendor": "ABC Pvt Ltd",
+  "total_amount": 25000,
+  "status": "APPROVED",
+  "risk_score": 10
+}

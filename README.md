@@ -1,2 +1,3 @@
-# AI-Invoice-Processing-Automation
-AI-powered invoice processing and automated approval workflow using n8n, Gmail and Google Sheets.
+# Supporting Documentation
+
+The certificate image documents completion of the GenLab Agent AI upskilling program associated with the learning project.
